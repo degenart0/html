@@ -8,7 +8,7 @@
   <h1>My Notes</h1>
   <textarea id="noteArea"></textarea>
   <div id="buttons">
-    <button id="saveButton">Save</button>
+    <button id="saveButton">Save me</button>
     <button id="newButton">New</button>
     <button id="deleteButton">Delete</button>
   </div>
